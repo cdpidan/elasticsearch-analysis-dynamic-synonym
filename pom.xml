@@ -12,7 +12,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <elasticsearch.version>${project.version}</elasticsearch.version>
-        <codelibs.elasticsearch.version>7.10.2</codelibs.elasticsearch.version>
+        <codelibs.elasticsearch.version>7.17.1</codelibs.elasticsearch.version>
         <maven.compiler.target>17</maven.compiler.target>
         <elasticsearch.plugin.name>analysis-dynamic-synonym</elasticsearch.plugin.name>
         <elasticsearch.assembly.descriptor>${project.basedir}/src/main/assemblies/plugin.xml
